@@ -224,7 +224,7 @@ rasa:
 
       # enable the rasa-production deployment
       # You can disable the rasa-production deployment in order to use external Rasa OSS deployment instead.
-      enabled: false
+      enabled: true
 
       # Define if external Rasa OSS should be used.
       external:
